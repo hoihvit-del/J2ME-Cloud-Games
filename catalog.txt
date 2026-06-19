@@ -1,7 +1,28 @@
-Boom Ola | 240 | 320 | https://raw.githubusercontent.com/hoihvit-del/J2ME-Cloud-Games/main/Boom-Ola.jar | com.game.Main | Game Crack Viet Hoa
-Ca Lon Ca Be | 240 | 320 | https://raw.githubusercontent.com/hoihvit-del/J2ME-Cloud-Games/main/CaLon-CaBe.jar | com.game.Main | Game Crack Viet Hoa
-Son Tinh Thuy Tinh | 240 | 320 | https://raw.githubusercontent.com/hoihvit-del/J2ME-Cloud-Games/main/SonTinh-ThuyTinh.jar | com.game.Main | Game Crack Viet Hoa
-Luca And Dragon | 240 | 320 | https://raw.githubusercontent.com/hoihvit-del/J2ME-Cloud-Games/main/Luca-and-Dragon-240x320.jar | com.game.Main | Game Loft
-The Gioi Rong II | 240 | 320 | https://raw.githubusercontent.com/hoihvit-del/J2ME-Cloud-Games/main/TheGioiRong-II-240x320.jar | com.game.Main | Game Loft
-Quy Phi Bi Su | 240 | 320 | https://raw.githubusercontent.com/hoihvit-del/J2ME-Cloud-Games/main/QuyPhi-BiSu-240x320.jar | com.game.Main | Game Hack
-Tu Ma Gia | 240 | 320 | https://raw.githubusercontent.com/hoihvit-del/J2ME-Cloud-Games/main/Tu-Ma-Gia-240x320.jar | com.game.Main | Game Hack
+Bô Lạc Thời Tiền Sử (240x320) | 0 | 0 | https://raw.githubusercontent.com/hoihvit-del/J2ME-Cloud-Games/main/BoLac-Thoi-TienSu-240x320.jar | com.game.Main | Game Crack Viet Hoa
+Bô Lạc Thời Tiền Sử (320x240) | 0 | 0 | https://raw.githubusercontent.com/hoihvit-del/J2ME-Cloud-Games/main/BoLac-Thoi-TienSu-320x240.jar | com.game.Main | Game Crack Viet Hoa
+Boom Ola | 0 | 0 | https://raw.githubusercontent.com/hoihvit-del/J2ME-Cloud-Games/main/Boom-Ola.jar | com.game.Main | Game Crack Viet Hoa
+Cá Lớn Cá Bé | 0 | 0 | https://raw.githubusercontent.com/hoihvit-del/J2ME-Cloud-Games/main/CaLon-CaBe.jar | com.game.Main | Game Crack Viet Hoa
+Luca And Dragon (240x320) | 0 | 0 | https://raw.githubusercontent.com/hoihvit-del/J2ME-Cloud-Games/main/Luca-and-Dragon-240x320.jar | com.game.Main | Game Loft
+Luca And Dragon (320x240) | 0 | 0 | https://raw.githubusercontent.com/hoihvit-del/J2ME-Cloud-Games/main/Luca-and-Dragon-320x240.jar | com.game.Main | Game Loft
+Ma Huyễn Lôi Kiếm Lục | 0 | 0 | https://raw.githubusercontent.com/hoihvit-del/J2ME-Cloud-Games/main/MaHuyen-LoiKiemLuc.jar | com.game.Main | Game Crack Viet Hoa
+Na Tra Vô Song | 0 | 0 | https://raw.githubusercontent.com/hoihvit-del/J2ME-Cloud-Games/main/Natra-Vo-Song.jar | com.game.Main | Game Crack Viet Hoa
+Nữ Sinh Học Viện (240x320) | 0 | 0 | https://raw.githubusercontent.com/hoihvit-del/J2ME-Cloud-Games/main/NuSinh-HocVien-240x320.jar | com.game.Main | Game Crack Viet Hoa
+Nữ Sinh Học Viện (320x240) | 0 | 0 | https://raw.githubusercontent.com/hoihvit-del/J2ME-Cloud-Games/main/NuSinh-HocVien-320x240.jar | com.game.Main | Game Crack Viet Hoa
+Quý Phi Bí Sử (240x320) | 0 | 0 | https://raw.githubusercontent.com/hoihvit-del/J2ME-Cloud-Games/main/QuyPhi-BiSu-240x320.jar | com.game.Main | Game Hack
+Quý Phi Bí Sử (320x240) | 0 | 0 | https://raw.githubusercontent.com/hoihvit-del/J2ME-Cloud-Games/main/QuyPhi-BiSu-320x240.jar | com.game.Main | Game Hack
+S40 TĐCK HBTG (240x320) | 0 | 0 | https://raw.githubusercontent.com/hoihvit-del/J2ME-Cloud-Games/main/S40-TDCK-HBTG-240x320.jar | com.game.Main | Game Crack Viet Hoa
+S40 Tân Tây Du Ký 2 (240x320) | 0 | 0 | https://raw.githubusercontent.com/hoihvit-del/J2ME-Cloud-Games/main/S40-TanTayDuKy-2-240x320.jar | com.game.Main | Game Crack Viet Hoa
+S60 TĐCK HBTG (240x320) | 0 | 0 | https://raw.githubusercontent.com/hoihvit-del/J2ME-Cloud-Games/main/S60-TDCK-HBTG-240x320.jar | com.game.Main | Game Crack Viet Hoa
+S60 Tân Tây Du Ký 2 (240x320) | 0 | 0 | https://raw.githubusercontent.com/hoihvit-del/J2ME-Cloud-Games/main/S60-TanTayDuKy-2-240x320.jar | com.game.Main | Game Crack Viet Hoa
+Sơn Tinh Thuỷ Tinh | 0 | 0 | https://raw.githubusercontent.com/hoihvit-del/J2ME-Cloud-Games/main/SonTinh-ThuyTinh.jar | com.game.Main | Game Crack Viet Hoa
+Song Tinh Hạ Kiếm Trảm Ma | 0 | 0 | https://raw.githubusercontent.com/hoihvit-del/J2ME-Cloud-Games/main/SongTinh-HaKiemTramMa.jar | com.game.Main | Game Crack Viet Hoa
+TĐCK HBTG (320x240) | 0 | 0 | https://raw.githubusercontent.com/hoihvit-del/J2ME-Cloud-Games/main/TDCK-HBTG-320x240.jar | com.game.Main | Game Crack Viet Hoa
+Tân Tây Du Ký 2 (320x240) | 0 | 0 | https://raw.githubusercontent.com/hoihvit-del/J2ME-Cloud-Games/main/TanTayDuKy-2-320x240.jar | com.game.Main | Game Crack Viet Hoa
+Tang Việt Dã (240x320) | 0 | 0 | https://raw.githubusercontent.com/hoihvit-del/J2ME-Cloud-Games/main/TangVietDa-240x320.jar | com.game.Main | Game Crack Viet Hoa
+Tang Việt Dã (320x240) | 0 | 0 | https://raw.githubusercontent.com/hoihvit-del/J2ME-Cloud-Games/main/TangVietDa-320x240.jar | com.game.Main | Game Crack Viet Hoa
+Thần Thú Đại Lục (240x320) | 0 | 0 | https://raw.githubusercontent.com/hoihvit-del/J2ME-Cloud-Games/main/ThanThu-DaiLuc-240x320.jar | com.game.Main | Game Crack Viet Hoa
+Thế Giới Rồng II (240x320) | 0 | 0 | https://raw.githubusercontent.com/hoihvit-del/J2ME-Cloud-Games/main/TheGioiRong-II-240x320.jar | com.game.Main | Game Loft
+Thế Giới Rồng II (320x240) | 0 | 0 | https://raw.githubusercontent.com/hoihvit-del/J2ME-Cloud-Games/main/TheGioiRong-II-320x240.jar | com.game.Main | Game Loft
+Thiếu Lâm Tự (240x320) | 0 | 0 | https://raw.githubusercontent.com/hoihvit-del/J2ME-Cloud-Games/main/ThieuLamTu-240x320.jar | com.game.Main | Game Crack Viet Hoa
+Tu Ma Giả (240x320) | 0 | 0 | https://raw.githubusercontent.com/hoihvit-del/J2ME-Cloud-Games/main/Tu-Ma-Gia-240x320.jar | com.game.Main | Game Hack
+Tu Ma Giả (320x240) | 0 | 0 | https://raw.githubusercontent.com/hoihvit-del/J2ME-Cloud-Games/main/Tu-Ma-Gia-320x240.jar | com.game.Main | Game Hack
